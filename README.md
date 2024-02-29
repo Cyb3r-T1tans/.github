@@ -27,5 +27,3 @@ We adhere to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). Ple
 Have questions or suggestions? Reach out to us at cyb3r.t1tans@example.com.
 
 Happy coding!
-
-# .github
